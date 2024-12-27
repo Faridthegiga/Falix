@@ -1,4 +1,4 @@
-# Movie-Application(NYRANFLIX) by NURAN RAMAZANLI
+# Movie-Application(FALIX) by FARID AZIZOV
 
 Welcome to the Movie Application! This application is built using cutting-edge technologies such as React, Tailwind CSS, Vite, Redux, Redux Toolkit, Redux Persist, React Scroll, React Router DOM, React Icons, React Infinite Scroll Component, React Lazy Load Image Component, React Player, React Select, React Toastify, and the TMDB API. With these powerful tools, we've created a feature-rich movie browsing experience for you to enjoy.
 
@@ -31,9 +31,6 @@ This application utilizes the power of various technologies to provide a seamles
 - React Player: A customizable media player component for React.
 - React Select: A flexible and customizable select input component for React.
 - React Toastify: Add toasts to your React application with ease.
-
-## Contributing
-We welcome contributions to enhance the Movie Application! Please submit a pull request if you have any ideas, improvements, or bug fixes. Make sure to adhere to the existing code style and provide clear commit messages.
 
 ## License
 This project is licensed under the MIT License.
